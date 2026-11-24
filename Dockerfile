@@ -21,4 +21,4 @@ RUN chmod 711 hidden_secrets.h
 RUN chmod 711 challenge_1/secret.h
 USER ghost
 
-CMD ["./challenge"]
+CMD ["/bin/bash"]
