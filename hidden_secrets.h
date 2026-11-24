@@ -4,7 +4,8 @@
 int compare_key(char *key, int input){
     if (strcmp(full_key[0], key) == 0) {
         
-        printf("%s\n", "Key is correct you won");
+        printf("%s\n", "Key is correct you won!!!!!!!!!!!\n Congrats
+            on beating the challenge ;)");
         return 0;
     } else {
         printf("%s\n", "Key is incorrect");
